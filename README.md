@@ -1,6 +1,4 @@
-Documentation
-
-Movie Recommendation System
+# Movie Recommendation System
 
 This document describes two movie recommendation systems implemented in Python:
 
